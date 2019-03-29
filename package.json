@@ -3,9 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.4.20",
+    "popper.js": "^1.14.7",
     "react": "^16.8.5",
+    "react-bootstrap": "^1.0.0-beta.6",
+    "react-datepicker": "^2.3.0",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^2.1.8",
+    "ts-pnp": "^1.0.1",
+    "typescript": "^3.3.4000"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,5 +34,11 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
